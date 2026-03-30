@@ -1,3 +1,5 @@
+# Etudiant: 
+ Abdelkader Kantaoui
 # TP 2 - Jeu Narratif à Embranchements (YAML + Serde)
 
 ### Sujet
